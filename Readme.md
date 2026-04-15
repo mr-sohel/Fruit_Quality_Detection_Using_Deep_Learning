@@ -57,7 +57,7 @@ To run this project on a different machine, you need to clone the project and se
 
 Here is the step-by-step guide you can follow (or share with your teammates) to get the AI model running on **any Windows, Mac, or Linux computer**.
 
-### Download dataset from [Kaggle](https://data.mendeley.com/datasets/xkbjx8959c/2)
+### Download dataset from [Mendeley](https://data.mendeley.com/datasets/xkbjx8959c/2)
 
 ### Step 1: Install Python
 Ensure Python is installed on the new machine. 
