@@ -23,8 +23,19 @@ Three challenges that nearly broke us
 ---
 
 The results speak for themselves
+
 mAP@50: 98.97% | Precision: 98.17% | Recall: 97.79%
 Nearly 99% mAP on an 8-class detection problem, running at the edge on a $5 camera. We were honestly shocked.
+
+### Data & Labels
+![Labels](model/fruit_quality/labels.jpg)
+![Training Batch 0](model/fruit_quality/train_batch0.jpg)
+
+### Evaluation Metrics
+![Training History](train_history.png)
+![Confusion Matrix](model/fruit_quality/confusion_matrix_normalized.png)
+![Validation Predictions](model/fruit_quality/val_batch2_pred.jpg)
+
 
 ---
 
@@ -47,13 +58,6 @@ This isn't just a student project. The same architecture scales directly to conv
 None of this happens without the team
 
 Deepest gratitude to my teammates: Md Sohel Rana, Faisal Islam Fahad, Naushin Sultana Mim, and Jerin — for every late debugging session, every brilliant insight, and every moment of refusing to settle. I'm incredibly proud of what we built together.
-
-<p align="center">
-  <img src="images/confusing_matrix.png" width="400">
-</p>
-![Labels] model/fruit_quality/labels.jpg
-![Confusing Matrix] confusing_matrix.png
-![Train History] train_history.png
 
 To run this project on a different machine, you need to clone the project and set up a Python environment with the required dependencies. I've created a `requirements.txt` file in the project folder to make this easy!
 
