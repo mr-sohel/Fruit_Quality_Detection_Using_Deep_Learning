@@ -48,6 +48,9 @@ None of this happens without the team
 
 Deepest gratitude to my teammates: Md Sohel Rana, Faisal Islam Fahad, Naushin Sultana Mim, and Jerin — for every late debugging session, every brilliant insight, and every moment of refusing to settle. I'm incredibly proud of what we built together.
 
+<p align="center">
+  <img src="images/confusing_matrix.png" width="400">
+</p>
 ![Labels] model/fruit_quality/labels.jpg
 ![Confusing Matrix] confusing_matrix.png
 ![Train History] train_history.png
